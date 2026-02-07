@@ -39,7 +39,8 @@ SIMPLE_MINECRAFT/
 │── app.py
 │── Photos/
 │    │──grass.jpeg
-│    │──
+│    │──demo1.png
+│    │──demo2.png
 │── reyirements.txt
 │── README.md
 ```
