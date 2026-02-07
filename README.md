@@ -25,7 +25,7 @@ A very basic **Minecraft-style sandbox game** built using the **Ursina Engine (P
 ## 📸 Screenshots
 
 ### World View
-![World](Photos/dem1.png)
+![World](Photos/demo1.png)
 
 ### Block Placement
 ![Blocks](Photos/demo2.png)
